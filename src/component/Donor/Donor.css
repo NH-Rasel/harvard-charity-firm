@@ -1,0 +1,14 @@
+.donor img{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.donor{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+}
