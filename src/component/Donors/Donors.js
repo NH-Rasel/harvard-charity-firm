@@ -24,7 +24,7 @@ const Donors = () => {
 
     let donorList = [];
     for (const donor of fund) {
-        donorList = donorList + donor.name;
+        donorList = donorList + donor.name + ", ";
     }
 
     return (
@@ -41,9 +41,7 @@ const Donors = () => {
             </div>
             <div className="fund-collection">
                 <h3>#Total Donors: {fund.length}</h3>
-                <th>List of donors:
-                </th><tr><td>
-                    {donorList}</td></tr>
+                <h5>List of donors: <br /><li>{donorList}</li></h5>
                 <h5>Total fund : ${totalFund}</h5>
             </div>
         </div>

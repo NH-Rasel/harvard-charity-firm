@@ -1,14 +1,22 @@
 .donor img{
-    width: 150px;
-    height: 150px;
-    margin: 10px;
+    width: 208px;
+    height: 180px;
     border-radius: 10px;
 }
 .donor{
-    text-align: center;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    background-color: rgb(255, 216, 201);
+    display: inline-flex;
+    margin-inline-start: 40px;
+    width: 230px;
     border: 1px solid lightgray;
-    border-radius: 5px;
-    margin: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
+.donor-info{
+    margin-top: 5px;
+}
+

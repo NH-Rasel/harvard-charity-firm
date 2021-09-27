@@ -3,10 +3,10 @@
         "id": 101,
         "img": "./fakedb images/donor-1.jpg",
         "name": "Leanne Graham",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 159.66536,
         "email": "Sincere@april.biz",
-        "funding": 200000
+        "funding": 20000
     },
     {
         "id": 102,
@@ -15,16 +15,16 @@
         "profession": "CEO of Simens",
         "phone": 133.867384,
         "email": "Shanna@melissa.tv",
-        "funding": 140000
+        "funding": 14000
     },
     {
         "id": 103,
         "img": "./fakedb images/donor-22.jpg",
         "name": "Clementine Bauch",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 144.9605032,
         "email": "Nathan@yesenia.net",
-        "funding": 860000
+        "funding": 86000
     },
     {
         "id": 104,
@@ -42,16 +42,16 @@
         "profession": "Owner of Candy Grp.",
         "phone": 123.651989,
         "email": "Lucio_Hettinger@annie.ca",
-        "funding": 357000
+        "funding": 35700
     },
     {
         "id": 106,
         "img": "./fakedb images/donor-4.jpg",
         "name": "Mrs. Dennis Schulist",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 462.659889,
         "email": "Karley_Dach@jasper.info",
-        "funding": 137000
+        "funding": 13700
     },
     {
         "id": 107,
@@ -60,7 +60,7 @@
         "profession": "CFO at Wilson CO.",
         "phone": 194.466289,
         "email": "Telly.Hoeger@billy.biz",
-        "funding": 860000
+        "funding": 86000
     },
     {
         "id": 108,
@@ -69,13 +69,13 @@
         "profession": "Owner of Johns Group",
         "phone": 353.676850,
         "email": "Sherwood@rosamond.me",
-        "funding": 970000
+        "funding": 97000
     },
     {
         "id": 109,
         "img": "./fakedb images/donor-7.jpg",
         "name": "Glenna Reichert",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 323.66995,
         "email": "Chaim_McDermott@dana.io",
         "funding": 58100
@@ -84,7 +84,7 @@
         "id": 110,
         "img": "./fakedb images/donor-26.jpg",
         "name": "Clementina DuBuque",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 907.674328,
         "email": "Rey.Padberg@karina.biz",
         "funding": 90000
@@ -96,13 +96,13 @@
         "profession": "Owner of AUstech",
         "phone": 786.454258,
         "email": "gibsonbauer@austech.com",
-        "funding": 489000
+        "funding": 48900
     },
     {
         "id": 112,
         "img": "./fakedb images/donor-18.jpg",
         "name": "Agnes William",
-        "profession": "Businessman",
+        "profession": "Businessperson",
         "phone": 34.754574,
         "email": "agneswilliam@datacator.com",
         "funding": 56000
@@ -141,7 +141,7 @@
         "profession": "Actor",
         "phone": 244.7459536,
         "email": "Sincere@april.biz",
-        "funding": 200000
+        "funding": 20000
     },
     {
         "id": 117,
